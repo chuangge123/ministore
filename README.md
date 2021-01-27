@@ -4,3 +4,4 @@ a wechart small procedure
 
 项目展示图
 https://cdn.nlark.com/yuque/0/2021/png/1141018/1611656267214-92d021eb-b6dd-4b52-8426-7a3ad9baab75.png
+![Image text](https://cdn.nlark.com/yuque/0/2021/png/1141018/1611656267214-92d021eb-b6dd-4b52-8426-7a3ad9baab75.png)
